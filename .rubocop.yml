@@ -1,0 +1,10 @@
+Style/Documentation:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+Layout/TrailingWhitespace:
+  Enabled: false
+Style/EmptyMethod:
+  Enabled: false
